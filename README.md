@@ -10,4 +10,4 @@ Skills/experience: Microsoft Excel, Google Sheets, SQL, BigQuery, R, Tableau, St
 - ⚡️ Fun fact: I'm a huge Taylor Swift fan.
 - 😄 Pronouns: He/Him
 
-[LinkedIn](linkedin.com/in/abotello13) - feel free to connect!
+[LinkedIn](https://linkedin.com/in/abotello13) - feel free to connect!
