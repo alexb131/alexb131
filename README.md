@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Alex. Welcome! 👋
 
-<!--
-**alexb131/alexb131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in data analytics, coding, and entrepreneurship. I'm growth-minded and continuously learning.
 
-Here are some ideas to get you started:
+Skills/experience: Microsoft Excel, Google Sheets, SQL, BigQuery, R, Tableau, Stata
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on projects to sharpen my data analysis and programming skills, so stay tuned for those.
+- 🌱 I’m currently learning Python—enjoying it—and excited to learn more technologies.
+- 💬 Ask me about sports or music.
+- ⚡️ Fun fact: I'm a huge Taylor Swift fan.
+- 😄 Pronouns: He/Him
+
+[LinkedIn](linkedin.com/in/abotello13) - feel free to connect!
